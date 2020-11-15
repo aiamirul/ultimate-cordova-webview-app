@@ -58,7 +58,7 @@ function onOffline() {
 }
 
 function openBrowser() {
-   var url = 'https://dusthqdenevents.frb.io/';
+   var url = 'https://www.e-dm5.uk/Members/home';
    var target = '_blank';
    var options = "location=no,toolbar=no"
    var ref = cordova.InAppBrowser.open(url, target, options);
